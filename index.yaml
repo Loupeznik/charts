@@ -1,0 +1,14 @@
+apiVersion: v1
+entries:
+  ha-tester:
+  - apiVersion: v2
+    appVersion: 1.0.0
+    created: "2025-06-14T12:55:53.4593894+02:00"
+    description: API which shows basic information about the current host
+    digest: 401880d4b7747056990aa4888ca6229c8b2f193774946611886fad326afd7001
+    name: ha-tester
+    type: application
+    urls:
+    - https://helm.dzarsky.eu/charts/ha-tester-1.0.1.tgz
+    version: 1.0.1
+generated: "2025-06-14T12:55:53.4578786+02:00"
